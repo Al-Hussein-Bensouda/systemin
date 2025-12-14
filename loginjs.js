@@ -5,9 +5,10 @@ button = document.querySelector(".button");
 
 button.addEventListener("click",()=>{
     if (textpassword === password.value){
-            window.location.href = "../crud.html";
+            window.location.href = "https://al-hussein-bensouda.github.io/systemout/";
     }
 
     
 })
+
 
